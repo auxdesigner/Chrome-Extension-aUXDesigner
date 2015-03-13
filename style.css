@@ -13,12 +13,20 @@
 	#box {
 		margin-bottom: 3em; height: 8em;
 	}
+	@font-face {
+	    font-family:"Raleway";
+	    src: url("Raleway-ExtraLight.ttf") 
+	}
+	@font-face {
+	    font-family:"Vollkorn";
+	    src: url("Vollkorn-Italic.ttf") 
+	}
 	header {
 		font-family: 'Raleway'; font-size:1.8em; color:#fff; margin-bottom: .4em; opacity: .9;
 	}
 	
 	#quote {
-		margin-top: 1em; margin-bottom: 2em; color:#fff; font-family: 'Vollkorn'; font-style: italic;
+		margin-top: 1em; margin-bottom: 2em; color:#fff; font-family: 'Vollkorn';
 		font-size:2.4em; line-height: 1; display: block;
 	}
 	a#go {
