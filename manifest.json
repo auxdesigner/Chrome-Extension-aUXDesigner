@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "A UX Designer",
   "description": "This extension shows a random ux quote on new tabs.",
-  "version": "1.7",
+  "version": "1.8",
   "icons": { 
     "16": "icon16.png",
     "48": "icon48.png",
